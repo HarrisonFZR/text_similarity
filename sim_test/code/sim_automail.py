@@ -5,7 +5,7 @@ import numpy as np
 import zipfile
 import re
 import datetime
-#git pull and git fetch locally
+#git pull and git fetch locally and this is new2 branch change. Now this is gonna be merged into master!!!
 # define a function so that we can get yesterday's date.
 
 df_ios = pd.read_csv('UTF-8\'\'HD_iOS_Daily_Auto_Final_r120211102.csv')

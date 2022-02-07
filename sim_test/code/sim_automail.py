@@ -5,7 +5,7 @@ import numpy as np
 import zipfile
 import re
 import datetime
-
+#git pull and git fetch
 # define a function so that we can get yesterday's date.
 
 df_ios = pd.read_csv('UTF-8\'\'HD_iOS_Daily_Auto_Final_r120211102.csv')
